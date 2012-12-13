@@ -1,0 +1,16 @@
+{
+  "name": "winston-popcorn",
+  "description": "A popcorn transport for winston",
+  "version": "0.0.1",
+  "author": "George Ye <gye@tigertext.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/georgeye/winston-popcorn.git"
+  },
+  "devDependencies": {
+    "winston": "0.5.x"
+    "protobuf": "0.8.6"
+  },
+  "main": "./lib/winston-popcorn.js",
+  "engines": { "node": ">= 0.4.0" }
+}

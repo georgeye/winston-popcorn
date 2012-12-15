@@ -1,7 +1,7 @@
 {
   "name": "winston-popcorn",
   "description": "A popcorn transport for winston",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "George Ye <gye@tigertext.com>",
   "repository": {
     "type": "git",

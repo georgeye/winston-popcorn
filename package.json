@@ -7,7 +7,7 @@
     "type": "git",
     "url": "http://github.com/georgeye/winston-popcorn.git"
   },
-  "devDependencies": {
+  "dependencies": {
     "winston": "0.5.x",
     "protobuf": "0.8.6"
   },
